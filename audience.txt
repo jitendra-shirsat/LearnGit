@@ -6,3 +6,4 @@ WHO THIS COURSE IS FOR
 
 >>>>>>> Stashed changes
 This course is for anyone who wants to learn Git. 
+bugfix
