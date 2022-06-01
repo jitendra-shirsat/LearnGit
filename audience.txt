@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 WHO THIS COURSE IS FOR
 ============================
+=======
+** AUDIENCE 
+
+>>>>>>> Stashed changes
 This course is for anyone who wants to learn Git. 
