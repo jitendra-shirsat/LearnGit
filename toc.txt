@@ -4,3 +4,9 @@ Creating Snapshots
   - Initializing a repository
   - Staging changesbugfix
 hello
+
+def WinningLottery:
+  This program will gurantee to Win Euro Millions Winning Lottery
+exit
+
+
